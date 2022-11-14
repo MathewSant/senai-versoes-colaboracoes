@@ -1,3 +1,5 @@
 # senai-versoes-colaboracoes
 
-readme de exemplo
+readme de exempl
+
+Lembrei do comando: git commit
